@@ -1,7 +1,9 @@
-<p style="text-align: center;"># An Introduction to GeoPandas:</p>
-<p style="text-align: center;">### Missing Journalists World-Wide in 2021</p>
+<h1 align="center">An Introduction to GeoPandas:</h1>
+<h3 align="center">Missing Journalists World-Wide in 2021</h3>
 
-[]("images/CPJMissingSaved.png")
+<div align="center">
+  <img src="images/CPJMissingSaved.png" width="800">
+</div>
 
 ## Description
 
