@@ -1,6 +1,8 @@
-# An Introduction to GeoPandas:
-### Missing Journalists World-Wide in 2021
-<img src="images/CPJMissingSaved.png" width="800"/>
+# <p style="text-align: center;">An Introduction to GeoPandas:</p>
+### <p style="text-align: center;">Missing Journalists World-Wide in 2021</p>
+
+<img src="images/CPJMissingSaved.png" width="800" height="400"/>
+
 ## Description
 
 This project was initially a class assignment intended to introduce the GeoPandas library. While searching for data with spatial attributes that I could use to demonstrate the library, I thought of the Committee to Protect Journalists. The CPJ keeps a tally of some grim statistics - attacks on journalists around the world. On their site, you can view counts by year, or country, of journalists killed, detained, or simply missing.
