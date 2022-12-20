@@ -11,7 +11,7 @@ This project was initially a class assignment intended to introduce the GeoPanda
 
 >_I feel it's only appropriate, before getting into the details of the project, to acknowledge the sacrifices of the many dedicated journalists around the world who refuse to be intimidated or corrupted by autocratic or military regimes, or by criminal organizations._
 
-Finally, in addition to GeoPandas, the notebook was intended to demonstrate choropleth maps. GeoPandas can show them easily for a single variable, but doesn't have a natural way to show bivariate choropleth maps. I show a couple of crude workarounds, but for multiple variables, another library would be more useful.
+Finally, in addition to GeoPandas, the notebook was intended to demonstrate choropleth maps. GeoPandas can show them easily for a single variable, but doesn't have a natural way to show bivariate choropleth maps. I show a couple of crude workarounds, but for multiple variables, another library would be more appropriate.
 
 #### Contents
 
@@ -55,6 +55,4 @@ tobah@umich.edu
 
 ## License
 
-Free for personal or educational not for profit use. Otherwise, please contact the author.  Please indicate the source in any case.
-
-Feel free to leave comments or suggestions.
+Free for personal or educational not for profit use. Otherwise, please contact the author.  Please indicate the source in any case. Feel free to leave comments or suggestions.
