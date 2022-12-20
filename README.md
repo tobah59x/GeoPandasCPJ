@@ -9,27 +9,39 @@
 
 This project was initially a class assignment intended to introduce the GeoPandas library. While searching for data with spatial attributes that I could use to demonstrate the library, I thought of the Committee to Protect Journalists. The CPJ keeps a tally of some grim statistics - attacks on journalists around the world. On their site, you can view counts by year, or country, of journalists killed, detained, or simply missing.
 
-I feel it's only appropriate, before getting into the details of GeoPandas, to acknowledge the sacrifices of the many dedicated journalists around the world who refuse to be intimidated or corrupted by autocratic or military regimes, or by criminal organizations.
+I feel it's only appropriate, before getting into the details of the project, to acknowledge the sacrifices of the many dedicated journalists around the world who refuse to be intimidated or corrupted by autocratic or military regimes, or by criminal organizations.
+
+Finally, in addition to GeoPandas, the notebook was intended to demonstrate choropleth maps. GeoPandas can show them easily for a single variable, but doesn't have a natural way to show bivariate choropleth maps. I show a couple of crude workarounds, but for multiple variables, another library would be more useful.
+
+#### Contents
+
+1- Visualization Library: GeoPandas
+2- Demonstration
+3- Visualization Technique: Choropleth Maps
 
 ## Getting Started
 
-### Dependencies
+#### Dependencies
 
 The only library needed is GeoPandas.
 ```
 pip install geopandas
 ```
 
-### Data
+You can find more information on GeoPandas here:
+https://geopandas.org/en/stable/getting_started/introduction.html
+
+#### Data
 
 The notebook uses two datasets:
 
 * The CPJ data on journalists missing in 2021 by country, available here: https://cpj.org/data/
-* The Economist Intelligence Unit democracy index for countries around the world. The index is a number from 0 to 100, based on several dozen indicators, expressing the quality of democracy in each country.
+* The Economist Intelligence Unit democracy index for countries around the world. The index is a number from 0 to 100, based on several dozen indicators, expressing the quality of democracy in each country. This data is available here:
+https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE/edit#gid=935776888
 
-Both datasets are available in the 'data' directory of the repository.
+Both datasets are also in the 'data' directory of the repository.
 
-### Images
+#### Images
 
 The notebook has several images embedded within Markdown text cells. These are available in the 'images' directory of the repository.
 
@@ -44,3 +56,5 @@ tobah@umich.edu
 ## License
 
 Free for personal or educational not for profit use. Otherwise, please contact the author.  Please indicate the source in any case.
+
+Feel free to leave comments or suggestions.
