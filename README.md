@@ -9,15 +9,15 @@
 
 This project was initially a class assignment intended to introduce the GeoPandas library. While searching for data with spatial attributes that I could use to demonstrate the library, I thought of the Committee to Protect Journalists. The CPJ keeps a tally of some grim statistics - attacks on journalists around the world. On their site, you can view counts by year, or country, of journalists killed, detained, or simply missing.
 
-I feel it's only appropriate, before getting into the details of the project, to acknowledge the sacrifices of the many dedicated journalists around the world who refuse to be intimidated or corrupted by autocratic or military regimes, or by criminal organizations.
+	I feel it's only appropriate, before getting into the details of the project, to acknowledge the sacrifices of the many dedicated journalists around the world who refuse to be intimidated or corrupted by autocratic or military regimes, or by criminal organizations.
 
 Finally, in addition to GeoPandas, the notebook was intended to demonstrate choropleth maps. GeoPandas can show them easily for a single variable, but doesn't have a natural way to show bivariate choropleth maps. I show a couple of crude workarounds, but for multiple variables, another library would be more useful.
 
 #### Contents
 
-1- Visualization Library: GeoPandas
-2- Demonstration
-3- Visualization Technique: Choropleth Maps
+1- Visualization Library: GeoPandas</br>
+2- Demonstration</br>
+3- Visualization Technique: Choropleth Maps</br>
 
 ## Getting Started
 
