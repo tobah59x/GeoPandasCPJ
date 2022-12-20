@@ -1,9 +1,7 @@
-# Project Title
+# An Introduction to GeoPandas:
+## Missing Journalists World-Wide in 2021
 
-An Introduction to GeoPandas:
-Missing Journalists World-Wide in 2021
-
-<img src="images/CPJMissingSaved.png"/>
+<img src="images/CPJMissingSaved.png" width="800"/>
 
 ## Description
 
