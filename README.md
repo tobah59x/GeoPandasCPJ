@@ -45,8 +45,12 @@ Both datasets are also in the 'data' directory of the repository.
 
 The notebook has several images embedded within Markdown text cells. These are available in the 'images' directory of the repository.
 
-GitHub has an issue with images embedded in Markdown cells. The images will appear in your development environment, but when the notebooks are pushed to a GitHub repository, only an icon is visible. The only workable solution I found was to upload them to a Google Drive with public viewing permission, then reference them using the URL in the notebook. Well, not exactly using the URL; I used the steps outlined in this Medium article:
+GitHub has an issue with images embedded in Markdown cells. The images will appear in your development environment, but when the notebooks are pushed to a GitHub repository, only an icon is visible.
+
+One workable solution I found was to upload them to a Google Drive with public viewing permission, then reference them using the URL in the notebook. Well, not exactly using that URL; the exact steps outlined in this Medium article:
 https://medium.com/analytics-vidhya/embedding-your-image-in-google-colab-markdown-3998d5ac2684
+
+A slightly easier solution, and for better portability, instead of the Google Drive images, I used the URLs of the images in the 'image' directory. To get an image link, open it in the directory, right-click on the image, then choose 'Copy image link'.
 
 ## Authors
 
